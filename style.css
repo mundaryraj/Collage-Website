@@ -165,7 +165,7 @@ a {
 .new {
     text-align: center;
     width: 100%;
-    font-size: 50px;
+    font-size: 20px;
     position: absolute;
     top: 150px;
     left: 0; /* Ise 0 kar do taaki text center mein aa sake */
@@ -188,3 +188,4 @@ a {
     transform: scale(0.95); /* Click karne par halka sa chhota hoga */
     transition: 0.1s;
 }
+
